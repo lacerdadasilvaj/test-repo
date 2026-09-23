@@ -1,2 +1,2 @@
 # test-repo
-test repo for repo creation process
+This is a test repo used to explain the creation of a repo. 
